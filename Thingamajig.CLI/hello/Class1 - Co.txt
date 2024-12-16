@@ -1,8 +1,0 @@
-﻿namespace Thingamajig.CLI.hello
-{
-    internal class Class
-    {
-
-
-    }
-}

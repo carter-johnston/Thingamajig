@@ -2,6 +2,6 @@
 {
     public interface ICsharpTranspilerService
     {
-
+        string ConvertCSharpToTypescript(string inputFilePath);
     }
 }
